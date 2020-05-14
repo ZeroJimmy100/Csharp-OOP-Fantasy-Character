@@ -1,0 +1,11 @@
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\bin\Debug\netcoreapp2.2\FantasyCharacter.deps.json
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\bin\Debug\netcoreapp2.2\FantasyCharacter.runtimeconfig.json
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\bin\Debug\netcoreapp2.2\FantasyCharacter.runtimeconfig.dev.json
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\bin\Debug\netcoreapp2.2\FantasyCharacter.dll
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\bin\Debug\netcoreapp2.2\FantasyCharacter.pdb
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.csprojAssemblyReference.cache
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.csproj.CoreCompileInputs.cache
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.AssemblyInfoInputs.cache
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.AssemblyInfo.cs
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.dll
+C:\Users\JP\Documents\CD C#\OOP\FantasyCharacter\obj\Debug\netcoreapp2.2\FantasyCharacter.pdb
